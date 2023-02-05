@@ -99,8 +99,8 @@ p {
   color: white;
 }
 
-@media (max-width: 576px) {
-  .primary-link {
+@media (max-width: 768px) {
+  .btn-container {
     text-align: center;
   }
 }
